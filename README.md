@@ -2,7 +2,7 @@
 
 ## [Obtener Clima](https://megagringa.github.io/clima/index.html)
 
-Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
+Proyecto que obtiene el clima - El proyecto viene con una estructura armada en html y css - 
          Solo se implementa js para desarrollar y aprender. 
 
 
