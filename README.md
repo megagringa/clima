@@ -1,9 +1,9 @@
 # #clima
 
-## [Clima](https://megagringa.github.io/clima/index.html)
+## [Obtener Clima](https://megagringa.github.io/clima/index.html)
 
 Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
-         Solo se implementa js. 
+         Solo se implementa js para desarrollar y aprender. 
 
 
 ## Lenguajes y tecnologías.
@@ -12,9 +12,3 @@ Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en
 - CSS3
 - Framework: Tailwind
 - JS(Javascript)
-
-- **Udemy**:
-    - Proyecto de práctica para mejorar skills.
-    
-- **Proyecto**:
-    - Obtener el clima de un lugar especifico.
