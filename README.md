@@ -1,6 +1,4 @@
-# clima
-
-# #simulador
+# #clima
 
 ## [Clima](https://megagringa.github.io/clima/index.html)
 
